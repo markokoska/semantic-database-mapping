@@ -1,0 +1,11 @@
+product_id,product_name,description,price,category,brand,sku,weight,dimensions,created_date
+1,Wireless Headphones,High-quality wireless headphones with noise cancellation,199.99,Electronics,TechBrand,WH-001,0.5,"8x6x3 inches",2023-01-01
+2,Running Shoes,Comfortable running shoes for daily exercise,89.99,Footwear,SportsBrand,RS-002,1.2,"12x4x5 inches",2023-01-02
+3,Coffee Maker,Automatic drip coffee maker with programmable timer,129.99,Home & Kitchen,KitchenPro,CM-003,3.5,"12x8x14 inches",2023-01-03
+4,Smartphone,Latest smartphone with advanced camera features,699.99,Electronics,TechBrand,SP-004,0.4,"6x3x0.3 inches",2023-01-04
+5,Yoga Mat,Non-slip yoga mat for exercise and meditation,24.99,Sports & Fitness,FitLife,YM-005,2.1,"72x24x0.25 inches",2023-01-05
+6,Laptop Bag,Durable laptop bag with multiple compartments,49.99,Accessories,TravelGear,LB-006,1.8,"16x12x4 inches",2023-01-06
+7,Water Bottle,Insulated stainless steel water bottle,19.99,Home & Kitchen,HydroLife,WB-007,0.8,"10x3x3 inches",2023-01-07
+8,Desk Lamp,LED desk lamp with adjustable brightness,39.99,Home & Office,LightTech,DL-008,1.5,"18x6x6 inches",2023-01-08
+9,Bluetooth Speaker,Portable Bluetooth speaker with rich sound,79.99,Electronics,SoundWave,BS-009,1.0,"8x4x4 inches",2023-01-09
+10,Backpack,Waterproof hiking backpack with multiple pockets,89.99,Outdoor,AdventureGear,BP-010,2.3,"20x12x8 inches",2023-01-10

@@ -1,0 +1,6 @@
+transaction_id,customer_id,product_id,sale_date,quantity,unit_price,total_amount,payment_method,sales_rep,discount_percent
+T2023001,C001,P101,2023-09-15,2,49.99,99.98,Credit Card,John Smith,0
+T2023002,C002,P102,2023-09-16,1,129.99,129.99,PayPal,Sarah Johnson,10
+T2023003,C003,P103,2023-09-17,3,24.99,74.97,Cash,Mike Davis,5
+T2023004,C001,P104,2023-09-18,1,199.99,199.99,Credit Card,John Smith,15
+T2023005,C004,P105,2023-09-19,2,89.99,179.98,Debit Card,Lisa Wilson,0

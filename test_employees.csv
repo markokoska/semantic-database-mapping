@@ -1,0 +1,6 @@
+emp_id,full_name,job_title,department,manager_id,salary,start_date,office_location,work_phone,performance_rating
+E101,Sarah Martinez,Software Engineer,Engineering,E201,85000,2022-03-15,Building A - Floor 3,ext-1234,Excellent
+E102,Michael Chen,Marketing Specialist,Marketing,E202,62000,2022-06-01,Building B - Floor 2,ext-1235,Good
+E103,Jessica Taylor,Data Analyst,Analytics,E203,72000,2022-09-12,Building A - Floor 4,ext-1236,Very Good
+E104,David Rodriguez,UX Designer,Design,E204,78000,2023-01-08,Building C - Floor 1,ext-1237,Excellent
+E105,Amanda Johnson,Project Manager,Operations,E205,95000,2021-11-20,Building A - Floor 5,ext-1238,Outstanding

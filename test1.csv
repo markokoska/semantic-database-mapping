@@ -1,0 +1,4 @@
+employee_id,full_name,work_email,department,hire_date
+101,Sarah Wilson,sarah.w@company.com,Marketing,2023-01-15
+102,Mike Chen,mike.c@company.com,Engineering,2023-02-20
+103,Lisa Garcia,lisa.g@company.com,Sales,2023-03-10

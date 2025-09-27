@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,phone,city,state,country,birthdate,registration_date
+1,John,Doe,john.doe@email.com,+1-555-0101,New York,NY,USA,1985-03-15,2023-01-15
+2,Jane,Smith,jane.smith@email.com,+1-555-0102,Los Angeles,CA,USA,1990-07-22,2023-01-16
+3,Michael,Johnson,michael.j@email.com,+1-555-0103,Chicago,IL,USA,1988-11-08,2023-01-17
+4,Emily,Brown,emily.brown@email.com,+1-555-0104,Houston,TX,USA,1992-05-30,2023-01-18
+5,David,Wilson,david.wilson@email.com,+1-555-0105,Phoenix,AZ,USA,1987-09-12,2023-01-19
+6,Sarah,Davis,sarah.davis@email.com,+1-555-0106,Philadelphia,PA,USA,1991-12-03,2023-01-20
+7,Robert,Miller,robert.miller@email.com,+1-555-0107,San Antonio,TX,USA,1986-02-28,2023-01-21
+8,Lisa,Wilson,lisa.wilson@email.com,+1-555-0108,San Diego,CA,USA,1993-08-17,2023-01-22
+9,James,Moore,james.moore@email.com,+1-555-0109,Dallas,TX,USA,1989-04-25,2023-01-23
+10,Maria,Taylor,maria.taylor@email.com,+1-555-0110,San Jose,CA,USA,1994-10-14,2023-01-24
