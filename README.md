@@ -65,6 +65,11 @@ semantic-database-mapping/
 └── requirements.txt       # Dependencies
 ```
 
+## Contributors
+
+- **[Your Name]** - Main Developer
+- **[Contributor Name]** - [Role/Contribution]
+
 ## License
 
 MIT License - See LICENSE file for details.
