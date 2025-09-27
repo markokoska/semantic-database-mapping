@@ -12,32 +12,32 @@ An AI-powered system that automatically maps relational database schemas and CSV
 - **RDF Generation**: Creates semantic triples and OWL ontologies
 - **SPARQL Interface**: Enables semantic querying
 - **Confidence Scoring**: Provides mapping quality metrics
-- **Web Interface**: User-friendly mapping review and editing
+- **Command Line Interface**: Simple terminal-based processing
 
 ## Technology Stack
 
-- **Backend**: Python 3.9+, FastAPI
+- **Backend**: Python 3.9+
 - **Semantic Web**: RDFLib, Owlready2, SPARQLWrapper
 - **AI/ML**: Transformers, spaCy, sentence-transformers
-- **Database**: SQLite (development), PostgreSQL (production)
-- **Frontend**: React, TypeScript, Material-UI
-- **Containerization**: Docker, Docker Compose
+- **Interface**: Command Line Interface (CLI)
 
 ## Quick Start
 
 ```bash
 # Clone and setup
-git clone <repository>
-cd wbsproject
+git clone https://github.com/markokoska/semantic-database-mapping.git
+cd semantic-database-mapping
 
 # Install dependencies
 pip install -r requirements.txt
+python -m spacy download en_core_web_sm
 
-# Run the system
-python -m src.main
+# Process your CSV files
+python run_cli.py --file data/sample_customers.csv
+python run_cli.py --file your_data.csv
 
-# Access web interface
-http://localhost:8000
+# View generated semantic mappings
+notepad filename_ontology.ttl
 ```
 
 ## Academic Context
@@ -52,18 +52,17 @@ This system demonstrates:
 ## Project Structure
 
 ```
-wbsproject/
+semantic-database-mapping/
 ├── src/                    # Source code
 │   ├── core/              # Core mapping logic
 │   ├── ai/                # AI/ML components
 │   ├── semantic/          # RDF/OWL handling
-│   ├── api/               # REST API
-│   └── web/               # Web interface
+│   └── utils/             # Utilities
 ├── data/                  # Sample datasets
-├── tests/                 # Unit and integration tests
-├── docs/                  # Documentation
 ├── examples/              # Usage examples
-└── evaluation/            # Performance metrics
+├── evaluation/            # Performance metrics
+├── run_cli.py             # Command line interface
+└── requirements.txt       # Dependencies
 ```
 
 ## License
